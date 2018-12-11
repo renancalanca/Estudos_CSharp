@@ -1,0 +1,7 @@
+C:\Projetos\Estudo_C#\Compilacao_Dinamica\Compilacao_Dinamica\bin\Debug\Compilacao_Dinamica.exe.config
+C:\Projetos\Estudo_C#\Compilacao_Dinamica\Compilacao_Dinamica\bin\Debug\Compilacao_Dinamica.exe
+C:\Projetos\Estudo_C#\Compilacao_Dinamica\Compilacao_Dinamica\bin\Debug\Compilacao_Dinamica.pdb
+C:\Projetos\Estudo_C#\Compilacao_Dinamica\Compilacao_Dinamica\obj\Debug\Compilacao_Dinamica.csprojAssemblyReference.cache
+C:\Projetos\Estudo_C#\Compilacao_Dinamica\Compilacao_Dinamica\obj\Debug\Compilacao_Dinamica.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo_C#\Compilacao_Dinamica\Compilacao_Dinamica\obj\Debug\Compilacao_Dinamica.exe
+C:\Projetos\Estudo_C#\Compilacao_Dinamica\Compilacao_Dinamica\obj\Debug\Compilacao_Dinamica.pdb

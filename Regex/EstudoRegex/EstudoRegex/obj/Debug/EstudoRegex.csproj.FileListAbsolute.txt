@@ -1,0 +1,7 @@
+C:\Projetos\Estudo_C#\Regex\EstudoRegex\EstudoRegex\bin\Debug\EstudoRegex.exe.config
+C:\Projetos\Estudo_C#\Regex\EstudoRegex\EstudoRegex\bin\Debug\EstudoRegex.exe
+C:\Projetos\Estudo_C#\Regex\EstudoRegex\EstudoRegex\bin\Debug\EstudoRegex.pdb
+C:\Projetos\Estudo_C#\Regex\EstudoRegex\EstudoRegex\obj\Debug\EstudoRegex.csprojAssemblyReference.cache
+C:\Projetos\Estudo_C#\Regex\EstudoRegex\EstudoRegex\obj\Debug\EstudoRegex.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo_C#\Regex\EstudoRegex\EstudoRegex\obj\Debug\EstudoRegex.exe
+C:\Projetos\Estudo_C#\Regex\EstudoRegex\EstudoRegex\obj\Debug\EstudoRegex.pdb

@@ -1,0 +1,7 @@
+C:\Projetos\Estudo_C#\EventLogEstudo\EventLogEstudo\bin\Debug\EventLogEstudo.exe.config
+C:\Projetos\Estudo_C#\EventLogEstudo\EventLogEstudo\bin\Debug\EventLogEstudo.exe
+C:\Projetos\Estudo_C#\EventLogEstudo\EventLogEstudo\bin\Debug\EventLogEstudo.pdb
+C:\Projetos\Estudo_C#\EventLogEstudo\EventLogEstudo\obj\Debug\EventLogEstudo.csprojAssemblyReference.cache
+C:\Projetos\Estudo_C#\EventLogEstudo\EventLogEstudo\obj\Debug\EventLogEstudo.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo_C#\EventLogEstudo\EventLogEstudo\obj\Debug\EventLogEstudo.exe
+C:\Projetos\Estudo_C#\EventLogEstudo\EventLogEstudo\obj\Debug\EventLogEstudo.pdb

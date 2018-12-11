@@ -1,0 +1,7 @@
+C:\Projetos\Estudo_C#\OutEstudo\OutEstudo\bin\Debug\OutEstudo.exe.config
+C:\Projetos\Estudo_C#\OutEstudo\OutEstudo\bin\Debug\OutEstudo.exe
+C:\Projetos\Estudo_C#\OutEstudo\OutEstudo\bin\Debug\OutEstudo.pdb
+C:\Projetos\Estudo_C#\OutEstudo\OutEstudo\obj\Debug\OutEstudo.csprojAssemblyReference.cache
+C:\Projetos\Estudo_C#\OutEstudo\OutEstudo\obj\Debug\OutEstudo.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo_C#\OutEstudo\OutEstudo\obj\Debug\OutEstudo.exe
+C:\Projetos\Estudo_C#\OutEstudo\OutEstudo\obj\Debug\OutEstudo.pdb

@@ -1,0 +1,10 @@
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\ExceptionPersonalizada\bin\Debug\ExceptionPersonalizada.exe.config
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\ExceptionPersonalizada\bin\Debug\ExceptionPersonalizada.exe
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\ExceptionPersonalizada\bin\Debug\ExceptionPersonalizada.pdb
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\ExceptionPersonalizada\bin\Debug\Exception.dll
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\ExceptionPersonalizada\bin\Debug\Exception.pdb
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\ExceptionPersonalizada\obj\Debug\ExceptionPersonalizada.csprojAssemblyReference.cache
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\ExceptionPersonalizada\obj\Debug\ExceptionPersonalizada.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\ExceptionPersonalizada\obj\Debug\ExceptionPersonalizada.csproj.CopyComplete
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\ExceptionPersonalizada\obj\Debug\ExceptionPersonalizada.exe
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\ExceptionPersonalizada\obj\Debug\ExceptionPersonalizada.pdb

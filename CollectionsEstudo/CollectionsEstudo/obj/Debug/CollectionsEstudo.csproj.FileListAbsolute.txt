@@ -1,0 +1,7 @@
+C:\Projetos\Estudo_C#\CollectionsEstudo\CollectionsEstudo\bin\Debug\CollectionsEstudo.exe.config
+C:\Projetos\Estudo_C#\CollectionsEstudo\CollectionsEstudo\bin\Debug\CollectionsEstudo.exe
+C:\Projetos\Estudo_C#\CollectionsEstudo\CollectionsEstudo\bin\Debug\CollectionsEstudo.pdb
+C:\Projetos\Estudo_C#\CollectionsEstudo\CollectionsEstudo\obj\Debug\CollectionsEstudo.csprojAssemblyReference.cache
+C:\Projetos\Estudo_C#\CollectionsEstudo\CollectionsEstudo\obj\Debug\CollectionsEstudo.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo_C#\CollectionsEstudo\CollectionsEstudo\obj\Debug\CollectionsEstudo.exe
+C:\Projetos\Estudo_C#\CollectionsEstudo\CollectionsEstudo\obj\Debug\CollectionsEstudo.pdb

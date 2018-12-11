@@ -1,0 +1,7 @@
+C:\Projetos\Estudo_C#\Enum_Estudo\Enum_Estudo\bin\Debug\Enum_Estudo.exe.config
+C:\Projetos\Estudo_C#\Enum_Estudo\Enum_Estudo\bin\Debug\Enum_Estudo.exe
+C:\Projetos\Estudo_C#\Enum_Estudo\Enum_Estudo\bin\Debug\Enum_Estudo.pdb
+C:\Projetos\Estudo_C#\Enum_Estudo\Enum_Estudo\obj\Debug\Enum_Estudo.csprojAssemblyReference.cache
+C:\Projetos\Estudo_C#\Enum_Estudo\Enum_Estudo\obj\Debug\Enum_Estudo.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo_C#\Enum_Estudo\Enum_Estudo\obj\Debug\Enum_Estudo.exe
+C:\Projetos\Estudo_C#\Enum_Estudo\Enum_Estudo\obj\Debug\Enum_Estudo.pdb

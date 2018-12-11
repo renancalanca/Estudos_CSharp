@@ -1,0 +1,7 @@
+C:\Projetos\Estudo_C#\Ref\RefEstudo\RefEstudo\bin\Debug\RefEstudo.exe.config
+C:\Projetos\Estudo_C#\Ref\RefEstudo\RefEstudo\bin\Debug\RefEstudo.exe
+C:\Projetos\Estudo_C#\Ref\RefEstudo\RefEstudo\bin\Debug\RefEstudo.pdb
+C:\Projetos\Estudo_C#\Ref\RefEstudo\RefEstudo\obj\Debug\RefEstudo.csprojAssemblyReference.cache
+C:\Projetos\Estudo_C#\Ref\RefEstudo\RefEstudo\obj\Debug\RefEstudo.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo_C#\Ref\RefEstudo\RefEstudo\obj\Debug\RefEstudo.exe
+C:\Projetos\Estudo_C#\Ref\RefEstudo\RefEstudo\obj\Debug\RefEstudo.pdb

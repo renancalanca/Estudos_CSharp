@@ -1,0 +1,7 @@
+C:\Projetos\Estudo_C#\Struct_Estudo\Struct_Estudo\bin\Debug\Struct_Estudo.exe.config
+C:\Projetos\Estudo_C#\Struct_Estudo\Struct_Estudo\bin\Debug\Struct_Estudo.exe
+C:\Projetos\Estudo_C#\Struct_Estudo\Struct_Estudo\bin\Debug\Struct_Estudo.pdb
+C:\Projetos\Estudo_C#\Struct_Estudo\Struct_Estudo\obj\Debug\Struct_Estudo.csprojAssemblyReference.cache
+C:\Projetos\Estudo_C#\Struct_Estudo\Struct_Estudo\obj\Debug\Struct_Estudo.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo_C#\Struct_Estudo\Struct_Estudo\obj\Debug\Struct_Estudo.exe
+C:\Projetos\Estudo_C#\Struct_Estudo\Struct_Estudo\obj\Debug\Struct_Estudo.pdb

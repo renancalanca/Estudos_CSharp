@@ -1,0 +1,6 @@
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\Exception\bin\Debug\Exception.dll
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\Exception\bin\Debug\Exception.pdb
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\Exception\obj\Debug\CustomException.csprojAssemblyReference.cache
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\Exception\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\Exception\obj\Debug\Exception.dll
+C:\Projetos\Estudo_C#\ExceptionPersonalizada\Exception\obj\Debug\Exception.pdb
